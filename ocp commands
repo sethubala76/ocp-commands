@@ -1,0 +1,2 @@
+# oc get jobs -n <project_name> | wc -l
+
